@@ -1,8 +1,7 @@
 # 📚 Exploring Computer Vision Tasks with YOLO
 
 
-- In the previous article, we discussed how **CLIP** bridges **text and images** by mapping them into a shared embedding space.
-- You can read more about it here: [CLIP: How AI Connects Text and Images Without Explicit Labels](https://www.linkedin.com/pulse/clip-how-ai-connects-text-images-without-explicit-yabut-meng-ai-wg9wf)
+- In the our [CLIP: How AI Connects Text and Images Without Explicit Labels](https://www.linkedin.com/pulse/clip-how-ai-connects-text-images-without-explicit-yabut-meng-ai-wg9wf) article, we discussed how **CLIP** bridges **text and images** by mapping them into a shared embedding space.
 - This allowed us to classify images based on their similarity to textual descriptions, showcasing an exciting intersection between vision and language.
 
 ## Introducing Computer Vision
@@ -11,7 +10,7 @@
 - Computer Vision focuses on enabling machines to **"see"** and **understand visual information** similarly to how humans do.
 - While CLIP demonstrated one task (classification), CV encompasses **many more tasks** beyond simple object recognition.
 
-## What Will We Cover in This Notebook?
+## What Will We Cover in This Experiment?
 
 - In this notebook, we will dive deeper into the world of Computer Vision.
 - We'll explore the different **core tasks** that CV models can perform, aside from object classification.
@@ -35,7 +34,7 @@
   - High speed and competitive accuracy, even on resource-limited devices.
 - Thanks to its continuous innovation, YOLO remains one of the most popular and practical choices for real-world applications.
 
-## Topics We'll Explore
+## We'll Explore
 
 Using YOLO models, we will cover:
 
@@ -47,3 +46,5 @@ Using YOLO models, we will cover:
 
 👉 Let's dive in and discover how powerful and versatile modern Computer Vision can be!
 
+## IPYNB
+ - Here's a [Google Colab notebook](https://drive.google.com/file/d/1d9MdVQA8iyz2Sx8peR7KFZsELwKmn8ow/view?usp=sharing) as instructional guide 
