@@ -47,4 +47,10 @@ Using YOLO models, we will cover:
 👉 Let's dive in and discover how powerful and versatile modern Computer Vision can be!
 
 ## IPYNB
- - Here's a [Google Colab notebook](https://drive.google.com/file/d/1d9MdVQA8iyz2Sx8peR7KFZsELwKmn8ow/view?usp=sharing) as instructional guide 
+ - Here's a [Google Colab notebook](https://drive.google.com/file/d/1d9MdVQA8iyz2Sx8peR7KFZsELwKmn8ow/view?usp=sharing) as instructional guide
+
+## YOLO inference via webcam
+- [Use your webcam to perform detection](yolo_01_detection_webcam.py)
+- [Use your webcam to perform segmentation](yolo_02_segmentation_webcam.py)
+- [Use your webcam to perform pose estimation](yolo_03_pose_webcam.py)
+
